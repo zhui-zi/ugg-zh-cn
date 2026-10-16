@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.asar*
+*.zip
+ugg-zh-cn-state.json

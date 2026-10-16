@@ -1,0 +1,9 @@
+{
+  "patchId": "ugg-2.3.3-zh-CN-1.0.0",
+  "appVersion": "2.3.3",
+  "originalSha256": "c2077b77ab85fa6d7fc02604cc2b56840a67cdea4415a4de504001b05fb3e581",
+  "assets": {
+    "zh-cn.cjs": "20f882c7cf211f50e409808a9474c906342ec19cc41567e596b4b5dde93fbe96",
+    "zh-cn-renderer.js": "fc266f743cd237ad6f1970eb4e7521989c747bf99927fbe75b4a15c2edd2d225"
+  }
+}

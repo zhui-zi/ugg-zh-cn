@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.cmd text eol=crlf
+zh-cn.cjs -text
+zh-cn-renderer.js -text whitespace=cr-at-eol
